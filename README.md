@@ -1,35 +1,58 @@
-# Hi, I'm Aymane Ait Arab 👋
+<h1 align="left">About me</h1>
 
-🎓 M2 student — *Intelligence et Sécurité des Objets Connectés* (ISOC), Faculté des Sciences de Meknès
-🔍 Looking for a 6-month **PFE internship** starting early 2027 — Embedded Systems / IoT / Embedded Security
-📍 Meknès, Morocco | 🌐 Open to opportunities in Morocco, France, Belgium, Canada
+Currently building: real-time IoT nodes and wireless sensor networks (Zigbee, embedded C/C++) for smart systems. Specializing in: embedded systems security, IoT architectures, and RTOS-based firmware. Open to collaborate on: embedded security projects, IoT prototypes, or PFE research opportunities. Stack: C · C++ · Python · RIOT OS · FreeRTOS · ESP32 · Arduino · Zigbee. Reach me: [linkedin.com/in/aymane-ait-arab](https://linkedin.com/in/your-linkedin-handle) · [aymanearab17@gmail.com](mailto:aymanearab17@gmail.com)
+
+<h2 align="left">🌐 Socials:</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymanearab17@gmail.com)
+
+<h2 align="left">💻 Tech Stack</h2>
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Embedded & IoT**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2E8B57?style=for-the-badge&logo=freertos&logoColor=white)
+![RIOT OS](https://img.shields.io/badge/RIOT_OS-FF4500?style=for-the-badge&logo=linux&logoColor=white)
+![Zigbee](https://img.shields.io/badge/Zigbee-EB1E2D?style=for-the-badge&logo=zigbee&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+
+**Tools & Platforms**
+
+![Wokwi](https://img.shields.io/badge/Wokwi-000000?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Design & Modeling**
+
+![Quartus](https://img.shields.io/badge/Quartus-005A9C?style=for-the-badge&logo=intel&logoColor=white)
+![UML](https://img.shields.io/badge/UML-FF6600?style=for-the-badge&logo=uml&logoColor=white)
 
 ---
 
-### 🛠️ What I work with
-
-**Embedded & IoT:** RIOT OS · FreeRTOS · ESP32 · Arduino · UART/SPI/I2C
-**Wireless:** Zigbee (XBee, XCTU) · Bluetooth · Wi-Fi
-**Languages:** C · C++ · Python · Java · SQL · VHDL
-**Tools:** Wokwi · Quartus · Android Studio · VS Code · Git
-
----
-
-### 📌 Featured projects
+<h2 align="left">📌 Pinned</h2>
 
 | Project | Description | Stack |
 |---|---|---|
-| [smart-parking-iot](./smart-parking-iot) | Real-time IoT parking monitoring node | ESP32-S3, RIOT OS, HC-SR04, Python |
-| [zigbee-smart-crosswalk](./zigbee-smart-crosswalk) | Wireless sensor network for pedestrian crossing | XBee S2C, Zigbee, ESP32-S3, Arduino |
-| [zumo-obstacle-robot](./zumo-obstacle-robot) | Mobile robot with obstacle avoidance + Bluetooth control | Arduino, Zumo Shield, HC-05 |
+| [smart-parking-iot](./smart-parking-iot) | Real-time 2-spot IoT parking monitor | ESP32-S3, RIOT OS, HC-SR04, Python |
+| [zigbee-smart-crosswalk](./zigbee-smart-crosswalk) | 3-node wireless pedestrian crossing network | XBee S2C, Zigbee, ESP32-S3, Arduino, MAX7219 |
+| [zumo-obstacle-robot](./zumo-obstacle-robot) | Reactive obstacle-avoidance + Bluetooth-controlled robot | Arduino, Zumo Shield, HC-05, HC-SR04 |
 
 ---
 
-### 📫 Reach me
-
-- Email: aymanearab17@gmail.com
-- LinkedIn: *www.linkedin.com/in/aymane-aitarab*
-
----
-
-💡 *Currently exploring IoT security — working on a Zigbee/BLE vulnerability analysis project. Stay tuned.*
+🎓 M2 student — *Intelligence et Sécurité des Objets Connectés*, Faculté des Sciences de Meknès
+🔍 Looking for a 6-month **PFE internship** starting early 2027 — Embedded Systems / IoT / Embedded Security
+📍 Meknès, Morocco
