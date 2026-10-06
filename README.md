@@ -1,8 +1,7 @@
-# About me
-
 <h1 align="left">About me</h1>
 
-M2 student — Intelligence et Sécurité des Objets Connectés (ISOC), Faculté des Sciences de Meknès 🔍 Looking for a 6-month PFE internship starting early 2027 — Embedded Systems / IoT / Embedded Security 📍 Meknès, Morocco | 🌐 Open to opportunities in Morocco, France, Belgium, Canada
+M2 student — Intelligence et Sécurité des Objets Connectés (ISOC), Faculté des Sciences de Meknès 
+Looking for a 6-month PFE internship starting early 2027 — Embedded Systems / IoT / Embedded Security
 
 Currently building: real-time IoT nodes and wireless sensor networks (Zigbee, embedded C/C++) for smart systems. 
 Specializing in: embedded systems security, IoT architectures, and RTOS-based firmware. 
