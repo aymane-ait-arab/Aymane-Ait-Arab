@@ -1,12 +1,15 @@
 # About me
 
-Étudiant en Master **Intelligence et Sécurité des Objets Connectés** à la Faculté des Sciences de Meknès. Passionné par les systèmes embarqués, l'IoT, la cybersécurité et l'intelligence artificielle. À la recherche d'un stage de fin d'études (PFE) de 6 mois à partir de 2027[cite: 1].
+<h1 align="left">About me</h1>
 
-**Currently building:** Des nœuds IoT temps réel (ESP32-S3 / RIOT OS) et des réseaux de capteurs intelligents (Zigbee) 
-**Exploring:** L'intelligence artificielle appliquée et la sécurisation avancée des systèmes IoT embarqués 
-**Open to collaborate on:** Des projets open-source en systèmes embarqués, cybersécurité IoT et robotique
-**Stack:** C · Java · Python · ESP32 · RIOT OS · FreeRTOS · Zigbee · SQL
-**Reach me:** [aymanearab17@gmail.com](mailto:aymanearab17@gmail.com)
+M2 student — Intelligence et Sécurité des Objets Connectés (ISOC), Faculté des Sciences de Meknès 🔍 Looking for a 6-month PFE internship starting early 2027 — Embedded Systems / IoT / Embedded Security 📍 Meknès, Morocco | 🌐 Open to opportunities in Morocco, France, Belgium, Canada
+
+Currently building: real-time IoT nodes and wireless sensor networks (Zigbee, embedded C/C++) for smart systems. 
+Specializing in: embedded systems security, IoT architectures, and RTOS-based firmware. 
+Open to collaborate on: embedded security projects, IoT prototypes, or PFE research opportunities. 
+Stack: C · C++ · Python · RIOT OS · FreeRTOS · ESP32 · Arduino · Zigbee. 
+
+
 
 ---
 
