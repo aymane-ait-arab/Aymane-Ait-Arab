@@ -9,37 +9,61 @@ Currently building: real-time IoT nodes and wireless sensor networks (Zigbee, em
 
 <h2 align="left">💻 Tech Stack</h2>
 
-**Languages**
+**Programming Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-CC0000?style=for-the-badge&logo=v&logoColor=white)
 
-**Embedded & IoT**
+**Embedded Systems & IoT**
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2E8B57?style=for-the-badge&logo=freertos&logoColor=white)
 ![RIOT OS](https://img.shields.io/badge/RIOT_OS-FF4500?style=for-the-badge&logo=linux&logoColor=white)
+![UART](https://img.shields.io/badge/UART%2FSerial-555555?style=for-the-badge)
+
+**Wireless Networks**
+
 ![Zigbee](https://img.shields.io/badge/Zigbee-EB1E2D?style=for-the-badge&logo=zigbee&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![WiFi](https://img.shields.io/badge/WiFi-0078D4?style=for-the-badge&logo=wifi&logoColor=white)
 
-**Tools & Platforms**
+**Databases**
 
-![Wokwi](https://img.shields.io/badge/Wokwi-000000?style=for-the-badge&logo=arduino&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Mobile Development**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+**Operating Systems & Networking**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Industrial_Networks-555555?style=for-the-badge)
+
+**Tools & IDEs**
+
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Wokwi](https://img.shields.io/badge/Wokwi-000000?style=for-the-badge&logo=arduino&logoColor=white)
+![Quartus](https://img.shields.io/badge/Quartus-005A9C?style=for-the-badge&logo=intel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
-**Design & Modeling**
+**Design & Methodology**
 
-![Quartus](https://img.shields.io/badge/Quartus-005A9C?style=for-the-badge&logo=intel&logoColor=white)
-![UML](https://img.shields.io/badge/UML-FF6600?style=for-the-badge&logo=uml&logoColor=white)
+![UML](https://img.shields.io/badge/UML-FF6600?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Digital/Analog Circuits](https://img.shields.io/badge/Digital%2FAnalog_Circuits-555555?style=for-the-badge)
 
 ---
 
