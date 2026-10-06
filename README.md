@@ -1,12 +1,12 @@
 # About me
 
-Étudiant en Master **Intelligence et Sécurité des Objets Connectés** à la Faculté des Sciences de Meknès. Passionné par les systèmes embarqués, l'IoT, la cybersécurité et l'intelligence artificielle[cite: 1]. À la recherche d'un stage de fin d'études (PFE) de 6 mois à partir de 2027[cite: 1].
+Étudiant en Master **Intelligence et Sécurité des Objets Connectés** à la Faculté des Sciences de Meknès. Passionné par les systèmes embarqués, l'IoT, la cybersécurité et l'intelligence artificielle. À la recherche d'un stage de fin d'études (PFE) de 6 mois à partir de 2027[cite: 1].
 
-**Currently building:** Des nœuds IoT temps réel (ESP32-S3 / RIOT OS) et des réseaux de capteurs intelligents (Zigbee)[cite: 1].  
-**Exploring:** L'intelligence artificielle appliquée et la sécurisation avancée des systèmes IoT embarqués[cite: 1].  
-**Open to collaborate on:** Des projets open-source en systèmes embarqués, cybersécurité IoT et robotique[cite: 1].  
-**Stack:** C · Java · Python · ESP32 · RIOT OS · FreeRTOS · Zigbee · SQL[cite: 1].  
-**Reach me:** [aymanearab17@gmail.com](mailto:aymanearab17@gmail.com)[cite: 1]
+**Currently building:** Des nœuds IoT temps réel (ESP32-S3 / RIOT OS) et des réseaux de capteurs intelligents (Zigbee) 
+**Exploring:** L'intelligence artificielle appliquée et la sécurisation avancée des systèmes IoT embarqués 
+**Open to collaborate on:** Des projets open-source en systèmes embarqués, cybersécurité IoT et robotique
+**Stack:** C · Java · Python · ESP32 · RIOT OS · FreeRTOS · Zigbee · SQL
+**Reach me:** [aymanearab17@gmail.com](mailto:aymanearab17@gmail.com)
 
 ---
 
@@ -43,12 +43,18 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-
+---
 
 <h2 align="left">📌 Pinned</h2>
-Project	Description	Stack
-smart-parking-iot	Real-time 2-spot IoT parking monitor	ESP32-S3, RIOT OS, HC-SR04, Python
-zigbee-smart-crosswalk	3-node wireless pedestrian crossing network	XBee S2C, Zigbee, ESP32-S3, Arduino, MAX7219
-zumo-obstacle-robot	Reactive obstacle-avoidance + Bluetooth-controlled robot	Arduino, Zumo Shield, HC-05, HC-SR04
 
-🎓 M2 student — Intelligence et Sécurité des Objets Connectés, Faculté des Sciences de Meknès 🔍 Looking for a 6-month PFE internship starting early 2027 — Embedded Systems / IoT / Embedded Security 📍 Meknès, Morocco
+| Project | Description | Stack |
+|---|---|---|
+| [smart-parking-iot](./smart-parking-iot) | Real-time 2-spot IoT parking monitor | ESP32-S3, RIOT OS, HC-SR04, Python |
+| [zigbee-smart-crosswalk](./zigbee-smart-crosswalk) | 3-node wireless pedestrian crossing network | XBee S2C, Zigbee, ESP32-S3, Arduino, MAX7219 |
+| [zumo-obstacle-robot](./zumo-obstacle-robot) | Reactive obstacle-avoidance + Bluetooth-controlled robot | Arduino, Zumo Shield, HC-05, HC-SR04 |
+
+---
+
+🎓 M2 student — *Intelligence et Sécurité des Objets Connectés*, Faculté des Sciences de Meknès
+🔍 Looking for a 6-month **PFE internship** starting early 2027 — Embedded Systems / IoT / Embedded Security
+📍 Meknès, Morocco
