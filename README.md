@@ -42,3 +42,13 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+
+
+<h2 align="left">📌 Pinned</h2>
+Project	Description	Stack
+smart-parking-iot	Real-time 2-spot IoT parking monitor	ESP32-S3, RIOT OS, HC-SR04, Python
+zigbee-smart-crosswalk	3-node wireless pedestrian crossing network	XBee S2C, Zigbee, ESP32-S3, Arduino, MAX7219
+zumo-obstacle-robot	Reactive obstacle-avoidance + Bluetooth-controlled robot	Arduino, Zumo Shield, HC-05, HC-SR04
+
+🎓 M2 student — Intelligence et Sécurité des Objets Connectés, Faculté des Sciences de Meknès 🔍 Looking for a 6-month PFE internship starting early 2027 — Embedded Systems / IoT / Embedded Security 📍 Meknès, Morocco
